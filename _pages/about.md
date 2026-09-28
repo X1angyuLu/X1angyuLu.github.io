@@ -20,7 +20,7 @@ I am always open to collaborations and new ideas. Feel free to [email me](mailto
 
 # 📖 Education and Experience
 - *2026 – present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
-- *2022 – 2024*, Master's studies in IT & Cognition, University of Copenhagen.
+- *2022 – 2024*, Master's degree in IT & Cognition, University of Copenhagen.
 - *2018 – 2022*, Bachelor's degree in Intelligent Science and Technology, Nankai University.
 
 # 📝 Selected Publications
