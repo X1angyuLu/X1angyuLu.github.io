@@ -39,25 +39,19 @@ NeurIPS 2026.
 </div>
 </div>
 
-<!-- AlphaApollo -->
+
+<!-- CoDaPO -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/AlphaApollo.png' alt="sym" width="100%"></div></div>
+<img src='/_pages/data/figures/CoDaPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-AlphaApollo: A System for Deep Agentic Reasoning.  
-Zhanke Zhou, Chentao Cao, Xiao Feng, Xuan Li, Zongze Li, **Xiangyu Lu**, Jiangchao Yao,  
-Weikai Huang, Tian Cheng, Jianghangfan Zhang, Tangyu Jiang, Linrui Xu, Yiming Zheng,  
-Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han✉️  
-Technical Report.
-[[paper]](https://arxiv.org/abs/2510.06261)
-[[code]](https://github.com/tmlr-group/AlphaApollo)
-[[website]](https://alphaapollo.org/)
+The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning.  
+Zhanke Zhou\*, **Xiangyu Lu\***, Chentao Cao, Brando Miranda, Tongliang Liu, Bo Han✉️, Sanmi Koyejo  
+ICML 2026.
+[[paper]](https://arxiv.org/abs/2606.07950)
+[[code]](https://github.com/tmlr-group/CoDaPO)
 <!-- [[slides]]() -->
 <!-- [[poster]]() -->
-<!-- [[EN-video]]() -->
-<!-- [[CN-video]]() -->
-<!-- [[CN-blog]]() -->
-<!-- [[twitter]]() -->
 </div>
 </div>
 
@@ -80,18 +74,24 @@ Technical Report.
 </div>
 
 
-<!-- CoDaPO -->
+<!-- AlphaApollo -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/CoDaPO.png' alt="sym" width="100%"></div></div>
+<img src='/_pages/data/figures/AlphaApollo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning.  
-Zhanke Zhou\*, **Xiangyu Lu\***, Chentao Cao, Brando Miranda, Tongliang Liu, Bo Han✉️, Sanmi Koyejo  
-ICML 2026.
-[[paper]](https://arxiv.org/abs/2606.07950)
-[[code]](https://github.com/tmlr-group/CoDaPO)
+AlphaApollo: A System for Deep Agentic Reasoning.  
+Zhanke Zhou, Chentao Cao, Xiao Feng, Xuan Li, Zongze Li, **Xiangyu Lu**, Jiangchao Yao,  
+Weikai Huang, Tian Cheng, Jianghangfan Zhang, Tangyu Jiang, Linrui Xu, Yiming Zheng,  
+Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han✉️  
+Technical Report.
+[[paper]](https://arxiv.org/abs/2510.06261)
+[[code]](https://github.com/tmlr-group/AlphaApollo)
+[[website]](https://alphaapollo.org/)
 <!-- [[slides]]() -->
 <!-- [[poster]]() -->
+<!-- [[EN-video]]() -->
+<!-- [[CN-video]]() -->
+<!-- [[CN-blog]]() -->
+<!-- [[twitter]]() -->
 </div>
 </div>
-
