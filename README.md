@@ -1,24 +1,20 @@
 # Xiangyu Lu — Academic Homepage
 
-Live website: https://x1angyulu.github.io/
+https://x1angyulu.github.io/
 
-A responsive, dependency-free static academic homepage. GitHub Pages serves the repository root on `master`. `.nojekyll` disables the previous Jekyll build.
+This site uses the original Jekyll source from https://github.com/andrewzhou924/andrewzhou924.github.io at commit `a52f49d4d3c0495e874b9939f368f1bbffe5ef20`.
 
-## Editing
+The original `_sass`, `assets/css`, `assets/js`, fonts, and `_layouts` are copied unchanged. Personalization is limited to configuration, navigation, biography, education, publication selection and author emphasis, avatar/favicon, and OpenReview links. The optional citation-data include is gated off until citation data is configured. Unrelated personal content, site verification token, and sponsorship settings are not copied. The original MIT LICENSE is retained. No recurring citation crawler is enabled.
 
-- `index.html`: biography, links, publications, education.
-- `style.css`: layout, typography, responsive styles.
-- `assets/avatar.jpg`: public GitHub avatar; replace with a personal photograph if desired.
-- `uploads/`: existing personal project documents, retained at their original URLs.
+## Edit
 
-Preview locally with `python3 -m http.server 8765`, then open http://localhost:8765.
+- `_config.yml`: name, avatar, email, social links, website metadata.
+- `_pages/about.md`: biography, education and publication entries.
+- `_data/navigation.yml`: section navigation.
+- `_pages/data/figures/`: publication figures.
+- `images/avatar.jpg`: current GitHub avatar; replace with a portrait if desired.
+- `uploads/`: existing personal project documents, preserved at their original URLs.
 
-Content sources: the owner’s OpenReview profile transcription, the previous personal biography, https://github.com/X1angyuLu, https://arxiv.org/abs/2606.07950, https://arxiv.org/abs/2510.06261, and publication metadata from https://andrewzhou924.github.io/. The layout is an original implementation inspired by that academic homepage.
+GitHub Pages builds Jekyll from the root of `master`. For local development: `bundle install`, then `bundle exec jekyll serve`.
 
-Research topics summarize the listed work. OpenReview’s March 2025 account-join date is not used as an education date. Advisor relation begins in 2024; PhD studies begin in 2026 according to the supplied profile. Google Scholar profile (provided by the owner): https://scholar.google.com.hk/citations?user=ggu6PsIAAAAJ. No unverified CV has been added.
-
-The previous forked template remains recoverable from Git history. Its LICENSE is retained.
-
-## Reference source
-
-The sidebar, Trebuchet font, single-page sections, and image/text publication structure reference Andrew Zhou’s source files `_pages/about.md`, `_layouts/default.html`, `_sass/_sidebar.scss`, `_sass/_variables.scss`, and `assets/css/main.scss`. Adapted with CSS Grid for responsive behavior. Paper figures for the owner’s three coauthored papers come from that repository; the MIT notice is preserved in `REFERENCE-LICENSE`.
+Education dates and contact links were supplied by the owner. Degree subjects come from the original personal homepage. Publication metadata and figures come from the reference homepage and linked research papers. Research-topic text summarizes the listed work.

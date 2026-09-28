@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: "/#about-me"
+  - title: "Education"
+    url: "/#-education-and-experience"
+  - title: "Selected Publications"
+    url: "/#-selected-publications"
