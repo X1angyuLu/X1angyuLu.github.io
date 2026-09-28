@@ -12,7 +12,7 @@ The original `_sass`, `assets/css`, `assets/js`, fonts, and `_layouts` are copie
 - `_pages/about.md`: biography, education and publication entries.
 - `_data/navigation.yml`: section navigation.
 - `_pages/data/figures/`: publication figures.
-- `images/avatar.jpg`: current GitHub avatar; replace with a portrait if desired.
+- `images/portrait.png`: selected square portrait used on the homepage.
 - `uploads/`: existing personal project documents, preserved at their original URLs.
 
 GitHub Pages builds Jekyll from the root of `master`. For local development: `bundle install`, then `bundle exec jekyll serve`.
