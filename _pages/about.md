@@ -18,7 +18,7 @@ Previously, I received my master's degree from the University of Copenhagen, whe
 
 I am always open to collaborations and new ideas. Feel free to [email me](mailto:xiangyulu0129@gmail.com) for research discussions or a casual chat.
 
-# 📰 News
+# 📣 News
 
 - *2026.09*, **[TACA](#taca)** was accepted to **NeurIPS 2026**. See you in Sydney!
 - *2026.09*, I began my PhD journey at **Hong Kong Baptist University**.
@@ -117,7 +117,7 @@ Conference/Workshop reviewer for **NeurIPS, ICML, ICLR, ACML, COLM**.
 
 Instructor for **NDAK20002U Neural Information Retrieval**, University of Copenhagen.
 
-# Miscellaneous
+# 🌱 Miscellaneous
 
 <div class="closing-note" markdown="1">
 
