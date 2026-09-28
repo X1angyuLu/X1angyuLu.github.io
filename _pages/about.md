@@ -27,6 +27,18 @@ Email: [xiangyulu0129@gmail.com](mailto:xiangyulu0129@gmail.com) / [csxylu@comp.
 # 📝 Selected Publications
 \* Co-first author, ✉️ Corresponding author.
 
+<!-- TACA -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='/_pages/data/figures/TACA.png' alt="TACA: Figure 1 training dynamics above Figure 2 credit-assignment analysis" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning.  
+**Xiangyu Lu**, Zhanke Zhou, Jiazhe Ning, Chentao Cao, Jiangchao Yao, Bo Han  
+NeurIPS 2026.
+
+</div>
+</div>
+
 <!-- AlphaApollo -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='/_pages/data/figures/AlphaApollo.png' alt="sym" width="100%"></div></div>
