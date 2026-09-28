@@ -10,14 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Xiangyu Lu (鲁翔宇), a PhD student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
+Hi there! I am Xiangyu Lu, a PhD student in the [TMLR group](https://bhanml.github.io/group.html) at Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/) and working with [Prof. Jiangchao Yao](https://sunarker.github.io/) (SJTU).
 
-My recent work explores **reasoning in large language models**, including reinforcement learning for reasoning and the development and evaluation of reasoning agents.
+My research interests lie in **reasoning and learning in foundation models**, with a particular focus on **agentic intelligence**. I am interested in how AI systems can develop the ability to solve complex problems, learn from experience, and improve through interaction with their environments. My goal is to understand the principles underlying these capabilities and develop methods that make reasoning agents more capable, reliable, and adaptable.
 
-Previously, I studied IT & Cognition at the University of Copenhagen and obtained my bachelor's degree in Intelligent Science and Technology from Nankai University.
+Previously, I received my master's degree from the University of Copenhagen, where I worked with [Dr. Abraham George Smith](https://scholar.google.com/citations?user=RsZFz_IAAAAJ&hl=en) (DIKU), [Dr. Mahoor Mehdikhani](https://www.mtm.kuleuven.be/english/research/scalint/cmg/team-composite-materials/00099709) (KU Leuven), and [Prof. Jon Sporring](https://sporring.github.io/) (DIKU). Before that, I obtained my bachelor's degree from Nankai University.
 
-Email: [xiangyulu0129@gmail.com](mailto:xiangyulu0129@gmail.com) / [csxylu@comp.hkbu.edu.hk](mailto:csxylu@comp.hkbu.edu.hk).  
-[Google Scholar](https://scholar.google.com.hk/citations?user=ggu6PsIAAAAJ&hl=zh-CN) / [OpenReview](https://openreview.net/profile?id=%7EXiangyu_Lu2).
+I am always open to collaborations and new ideas. Feel free to [email me](mailto:xiangyulu0129@gmail.com) for research discussions or a casual chat.
 
 # 📖 Education and Experience
 - *2026 – present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
