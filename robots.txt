@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://x1angyulu.github.io/sitemap.xml
