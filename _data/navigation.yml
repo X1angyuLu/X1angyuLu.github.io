@@ -9,3 +9,7 @@ main:
     url: "/#-selected-publications"
   - title: "Selected Awards"
     url: "/#-selected-awards"
+  - title: "Services"
+    url: "/#-services"
+  - title: "Teaching"
+    url: "/#-teaching"

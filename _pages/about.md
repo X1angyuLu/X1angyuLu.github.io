@@ -108,3 +108,11 @@ Technical Report.
 # 🎖 Selected Awards
 
 - *2026.09*, Selected for the [PhD Transdisciplinary Research Scholarship Scheme](https://gs.hkbu.edu.hk/current-students/institute-of-transdisciplinary-studies-its-programme), Hong Kong Baptist University.
+
+# 🤝 Services
+
+Conference/Workshop reviewer for **NeurIPS, ICML, ICLR, ACML, COLM**.
+
+# 📚 Teaching
+
+Instructor for **NDAK20002U Neural Information Retrieval (NIR)**, University of Copenhagen (UCPH).
