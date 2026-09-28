@@ -123,3 +123,25 @@ h1:before, .anchor:before {
         margin: 0;
     }
 }
+
+.page__content .homepage-footer {
+    margin-top: 2.5em;
+    padding-bottom: 1em;
+    text-align: center;
+
+    .visitor-globe {
+        width: 200px;
+        max-width: 100%;
+        margin: 0 auto 1em;
+
+        canvas, iframe, img {
+            max-width: 100%;
+        }
+    }
+
+    .last-updated {
+        margin: 0;
+        color: #687078;
+        font-size: 0.8em;
+    }
+}

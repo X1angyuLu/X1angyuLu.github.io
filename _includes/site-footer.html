@@ -1,0 +1,8 @@
+<footer class="homepage-footer" aria-label="Website information">
+  {% if site.visitor_globe_embed and site.visitor_globe_embed != '' %}
+  <div class="visitor-globe" aria-label="Visitor statistics">
+    {{ site.visitor_globe_embed }}
+  </div>
+  {% endif %}
+  <p class="last-updated">Last updated: <time datetime="{{ site.time | date: '%Y-%m-%d' }}">{{ site.time | date: '%B %-d, %Y' }}</time></p>
+</footer>

@@ -126,3 +126,5 @@ Instructor for **NDAK20002U Neural Information Retrieval**, University of Copenh
 These words have been a lasting source of encouragement for me. I hope they inspire you as well.
 
 </div>
+
+{% include site-footer.html %}
