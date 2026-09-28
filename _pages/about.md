@@ -18,6 +18,14 @@ Previously, I received my master's degree from the University of Copenhagen, whe
 
 I am always open to collaborations and new ideas. Feel free to [email me](mailto:xiangyulu0129@gmail.com) for research discussions or a casual chat.
 
+# 📰 News
+
+- *2026.09*, **TACA** was accepted to **NeurIPS 2026**. See you in Sydney!
+- *2026.09*, I began my PhD journey at **Hong Kong Baptist University**.
+- *2026.05*, **CoDaPO** was accepted to **ICML 2026**. See you in Seoul!
+- *2026.04*, We introduced **AlphaDiana**, a system for evaluating reasoning agents.
+- *2025.09*, We introduced **AlphaApollo**, a system for deep agentic reasoning.
+
 # 📖 Education and Experience
 - *2026 – present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
 - *2022 – 2024*, Master's degree in IT & Cognition, University of Copenhagen.
