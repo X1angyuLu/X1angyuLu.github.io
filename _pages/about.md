@@ -104,3 +104,7 @@ Technical Report.
 <!-- [[twitter]]() -->
 </div>
 </div>
+
+# 🎖 Selected Awards
+
+- *2026.09*, Selected for the [PhD Transdisciplinary Research Scholarship Scheme](https://gs.hkbu.edu.hk/current-students/institute-of-transdisciplinary-studies-its-programme), Hong Kong Baptist University.
