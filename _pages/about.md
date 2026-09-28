@@ -33,7 +33,7 @@ Email: [xiangyulu0129@gmail.com](mailto:xiangyulu0129@gmail.com) / [csxylu@comp.
 <div class='paper-box-text' markdown="1">
 
 Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning.  
-**Xiangyu Lu**, Zhanke Zhou, Jiazhe Ning, Chentao Cao, Jiangchao Yao, Bo Han  
+**Xiangyu Lu**, Zhanke Zhou, Jiazhe Ning, Chentao Cao, Jiangchao Yao, Bo Han✉️  
 NeurIPS 2026.
 
 </div>
