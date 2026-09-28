@@ -62,7 +62,7 @@ ICML 2026.
 <div class='paper-box-text' markdown="1">
 
 AlphaDiana: A System for Evaluating Reasoning Agents.  
-Zhanke Zhou, Zongze Li, Weikai Huang, Xuan Li, Chentao Cao, Xiao Feng, **Xiangyu Lu**,  
+Zhanke Zhou\*, Zongze Li\*, Weikai Huang\*, Xuan Li\*, Chentao Cao\*, Xiao Feng, **Xiangyu Lu**,  
 Jinbo Hu, Menghan Lu, Yi Xie, Nico Pelleriti, Shiyang Liu, Max Zimmer, Brando Miranda,  
 Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han✉️  
 Technical Report.
@@ -80,7 +80,7 @@ Technical Report.
 <div class='paper-box-text' markdown="1">
 
 AlphaApollo: A System for Deep Agentic Reasoning.  
-Zhanke Zhou, Chentao Cao, Xiao Feng, Xuan Li, Zongze Li, **Xiangyu Lu**, Jiangchao Yao,  
+Zhanke Zhou\*, Chentao Cao\*, Xiao Feng\*, Xuan Li\*, Zongze Li\*, **Xiangyu Lu\***, Jiangchao Yao\*,  
 Weikai Huang, Tian Cheng, Jianghangfan Zhang, Tangyu Jiang, Linrui Xu, Yiming Zheng,  
 Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han✉️  
 Technical Report.
