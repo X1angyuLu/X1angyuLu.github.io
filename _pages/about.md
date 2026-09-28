@@ -116,3 +116,9 @@ Conference/Workshop reviewer for **NeurIPS, ICML, ICLR, ACML, COLM**.
 # 📚 Teaching
 
 Instructor for **NDAK20002U Neural Information Retrieval**, University of Copenhagen.
+
+---
+
+> “The best time to plant a tree was thirty years ago. The second best time is now.”
+
+These words have been a lasting source of encouragement for me. I hope they inspire you as well.
