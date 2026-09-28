@@ -108,3 +108,18 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.page__content .closing-note {
+    hr {
+        margin: 1.75em 0 1em;
+        border-top: 2px solid #7a8288;
+    }
+
+    blockquote {
+        margin: 0 0 0.5em;
+    }
+
+    p {
+        margin: 0;
+    }
+}
