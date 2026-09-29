@@ -24,7 +24,7 @@ I am always open to collaborations and new ideas. Feel free to [email me](mailto
 - *2026.09*, I began my PhD journey at **Hong Kong Baptist University**.
 - *2026.05*, **[CoDaPO](https://arxiv.org/abs/2606.07950)** was accepted to **ICML 2026**. See you in Seoul!
 - *2026.04*, We introduced **[AlphaDiana](https://github.com/tmlr-group/AlphaDiana)**, a system for evaluating reasoning agents.
-- *2025.09*, We introduced **[AlphaApollo](https://alphaapollo.org/)**, a system for deep agentic reasoning.
+- *2025.10*, We introduced **[AlphaApollo](https://alphaapollo.org/)**, a system for deep agentic reasoning.
 
 # 📖 Education
 - *2026 – present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University.
