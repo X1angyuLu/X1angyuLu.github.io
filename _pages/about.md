@@ -26,8 +26,8 @@ I am always open to collaborations and new ideas. Feel free to [email me](mailto
 - *2026.04*, We introduced **[AlphaDiana](https://github.com/tmlr-group/AlphaDiana)**, a system for evaluating reasoning agents.
 - *2025.09*, We introduced **[AlphaApollo](https://alphaapollo.org/)**, a system for deep agentic reasoning.
 
-# 📖 Education and Experience
-- *2026 – present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/).
+# 📖 Education
+- *2026 – present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University.
 - *2022 – 2024*, Master's degree in IT & Cognition, University of Copenhagen.
 - *2018 – 2022*, Bachelor's degree in Intelligent Science and Technology, Nankai University.
 

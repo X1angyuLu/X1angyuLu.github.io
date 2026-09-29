@@ -4,7 +4,7 @@ main:
   - title: "News"
     url: "/#-news"
   - title: "Education"
-    url: "/#-education-and-experience"
+    url: "/#-education"
   - title: "Selected Publications"
     url: "/#-selected-publications"
   - title: "Selected Awards"
