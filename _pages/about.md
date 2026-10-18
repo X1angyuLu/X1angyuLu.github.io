@@ -65,24 +65,6 @@ ICML 2026.
 </div>
 
 
-<!-- AlphaDiana -->
-<div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/AlphaDiana.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-AlphaDiana: A System for Evaluating Reasoning Agents.  
-Zhanke Zhou\*, Zongze Li\*, Weikai Huang\*, Xuan Li\*, Chentao Cao\*, Xiao Feng, **Xiangyu Lu**,  
-Jinbo Hu, Menghan Lu, Yi Xie, Nico Pelleriti, Shiyang Liu, Max Zimmer, Brando Miranda,  
-Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han✉️  
-Technical Report.
-[[paper]](https://openreview.net/attachment?id=4vARlk9o95&name=pdf)
-[[code]](https://github.com/tmlr-group/AlphaDiana)
-<!-- [[website]]() -->
-
-</div>
-</div>
-
-
 <!-- AlphaApollo -->
 <div class='paper-box'><div class='paper-box-image'><div>
 <img src='/_pages/data/figures/AlphaApollo.png' alt="sym" width="100%"></div></div>
@@ -104,6 +86,24 @@ Technical Report.
 <!-- [[twitter]]() -->
 </div>
 </div>
+
+<!-- AlphaDiana -->
+<div class='paper-box'><div class='paper-box-image'><div>
+<img src='/_pages/data/figures/AlphaDiana.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AlphaDiana: A System for Evaluating Reasoning Agents.  
+Zhanke Zhou\*, Zongze Li\*, Weikai Huang\*, Xuan Li\*, Chentao Cao\*, Xiao Feng, **Xiangyu Lu**,  
+Jinbo Hu, Menghan Lu, Yi Xie, Nico Pelleriti, Shiyang Liu, Max Zimmer, Brando Miranda,  
+Jiangchao Yao, Bo Liu, Sanmi Koyejo, Sebastian Pokutta, Bo Han✉️  
+Technical Report.
+[[paper]](https://arxiv.org/abs/2610.20675)
+[[code]](https://github.com/tmlr-group/AlphaDiana)
+[[website]](https://alphadiana.org/)
+
+</div>
+</div>
+
 
 # 🎖 Selected Awards
 
