@@ -44,6 +44,7 @@ I am always open to collaborations and new ideas. Feel free to [email me](mailto
 Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning.  
 **Xiangyu Lu**, Zhanke Zhou, Jiazhe Ning, Chentao Cao, Jiangchao Yao, Bo Han✉️  
 NeurIPS 2026.
+[[code]](https://github.com/tmlr-group/TACA)
 
 </div>
 </div>
