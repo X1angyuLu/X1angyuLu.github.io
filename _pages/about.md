@@ -41,9 +41,10 @@ I am always open to collaborations and new ideas. Feel free to [email me](mailto
 <img src='/_pages/data/figures/TACA.png' alt="TACA: Figure 1 training dynamics above Figure 2 credit-assignment analysis" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Transition-Aware Credit Assignment in Agentic Learning for LLM Reasoning.  
+When Credit Turns Against Tools: Transition-Aware Credit Assignment in Agentic Reinforcement Learning.  
 **Xiangyu Lu**, Zhanke Zhou, Jiazhe Ning, Chentao Cao, Jiangchao Yao, Bo Han✉️  
 NeurIPS 2026.
+[[paper]](https://arxiv.org/abs/2611.11330)
 [[code]](https://github.com/tmlr-group/TACA)
 
 </div>
