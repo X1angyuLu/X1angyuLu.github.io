@@ -38,7 +38,7 @@ I am always open to collaborations and new ideas. Feel free to [email me](mailto
 
 <!-- TACA -->
 <div class='paper-box'><div class='paper-box-image'><div>
-<img src='/_pages/data/figures/TACA-method.png' alt="TACA method overview: Decision Contrast, Advantage Projection, and Supervised Replay" width="100%"></div></div>
+<img src='/_pages/data/figures/TACA-overview.png' alt="Figure 1: motivation for TACA. Below, the method overview: Decision Contrast, Advantage Projection, and Supervised Replay" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 When Credit Turns Against Tools: Transition-Aware Credit Assignment in Agentic Reinforcement Learning.  
